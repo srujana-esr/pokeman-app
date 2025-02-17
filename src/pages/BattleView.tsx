@@ -23,7 +23,7 @@ const BattleView = () => {
   }, [pokemon2, selectedMoves]);
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 p-6">
+    <div className="flex flex-col items-center justify-center min-h-screen bg-red-200 p-6">
       <div className="border border-gray-300 bg-white rounded-lg p-6 shadow-lg w-full max-w-2xl relative">
         
         <div className="flex flex-col space-y-6 px-4 py-6 border border-gray-300">
