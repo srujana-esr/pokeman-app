@@ -1,12 +1,12 @@
-import './App.css'
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Home from "./pages/Home";
 
-function App() {
+const App = () => (
+  <Router>
+    <Routes>
+      <Route path="/" element={<Home />} />
+    </Routes>
+  </Router>
+);
 
-  return (
-    <>
-    <p>select random pokemon</p>
-    </>
-  )
-}
-
-export default App
+export default App;
