@@ -2,8 +2,8 @@
 
 A Pokemon battle simulator where you select two Pokemon and let them battle based on their **moves and power stats**.
 
-<img width="450" alt="Home" src="https://github.com/user-attachments/assets/54367d4e-d1ef-417e-8044-9d95921bed29" />
-<img width="450" alt="BattleView" src="https://github.com/user-attachments/assets/0dbb5ee4-d6db-4f2b-ae88-6677516e018e" />
+<img width="450" alt="Home" src="https://github.com/user-attachments/assets/1095e5d2-26a2-4ad4-9ffe-293ef0e63e2d" />
+<img width="450" alt="BattleView" src="https://github.com/user-attachments/assets/6c7007ed-43c8-4c1b-87b8-8e08b42d308e" />
 
 
 ---
